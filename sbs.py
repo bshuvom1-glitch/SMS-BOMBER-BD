@@ -3,7 +3,7 @@ import time
 import threading
 import requests
 
-PASSWORD = "jt10x"
+PASSWORD = "shuvom"
 
 def show_channel():
     os.system("clear")
