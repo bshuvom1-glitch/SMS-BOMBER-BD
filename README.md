@@ -12,6 +12,8 @@ pkg install openssl -y
 
 pkg install libandroid-support -y
 
+rm -rf SMS-BOMBER-BD
+
 git clone https://github.com/bshuvom1-glitch/SMS-BOMBER-BD.git
 
 cd SMS-BOMBER-BD
