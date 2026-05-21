@@ -14,7 +14,11 @@ pkg install libandroid-support -y
 
 git clone https://github.com/bshuvom1-glitch/SMS-BOMBER-BD.git
 
-cd 
+cd SMS-BOMBER-BD
+
+ls
+
+python sbs.py
 
 
 
