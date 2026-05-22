@@ -21,33 +21,7 @@ Open your Termux application and copy-paste the following single commands to ins
 rm -rf SMS-BOMBER-BD
 
 # Clone the standalone engine registry
-git clone [https://github.com/bshuvom1-glitch/SMS-BOMBER-BD.git](https://github.com/bshuvom1-glitch/SMS-BOMBER-BD.git)
-
-# Navigate into the project folder
-cd SMS-BOMBER-BD
-
-# Check directory structure files
-ls
-
-# Run the primary launcher script
-python sbs.py# Remove old directory if exists
-rm -rf SMS-BOMBER-BD
-
-# Clone the standalone engine registry
-git clone [https://github.com/bshuvom1-glitch/SMS-BOMBER-BD.git](https://github.com/bshuvom1-glitch/SMS-BOMBER-BD.git)
-
-# Navigate into the project folder
-cd SMS-BOMBER-BD
-
-# Check directory structure files
-ls
-
-# Run the primary launcher script
-python sbs.py# Remove old directory if exists
-rm -rf SMS-BOMBER-BD
-
-# Clone the standalone engine registry
-git clone [https://github.com/bshuvom1-glitch/SMS-BOMBER-BD.git](https://github.com/bshuvom1-glitch/SMS-BOMBER-BD.git)
+git clone https://github.com/bshuvom1-glitch/SMS-BOMBER-BD.git
 
 # Navigate into the project folder
 cd SMS-BOMBER-BD
