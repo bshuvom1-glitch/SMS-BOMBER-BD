@@ -30,4 +30,4 @@ cd SMS-BOMBER-BD
 ls
 
 # Run the primary launcher script
-python sbs.py
+python sbv1.py
