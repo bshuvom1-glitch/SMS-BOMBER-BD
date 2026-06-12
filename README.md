@@ -1,37 +1,88 @@
-# 🚀 SMS-BOMBER-BD
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Termux%20%7C%20Linux-green?style=for-the-badge" alt="Platform">
+</p>
+
+<h1 align="center">📱 SMS-BOMBER-BD</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Developed%20By-Shuvom%20Sensor-red?style=for-the-badge" alt="Developer">
-  <img src="https://img.shields.io/badge/Platform-Termux%20%7C%20Linux-green?style=for-the-badge" alt="Platform">
+  <strong>একটি শিক্ষামূলক পারফরম্যান্স টেস্টিং টুল</strong>
 </p>
 
 ---
 
-### ⚠️ Disclaimer & Notice
-> **[!] NOTICE:** This tool is developed strictly for **educational purposes** and performance testing only. Any misuse or unauthorized automated spamming is solely the responsibility of the operator. 
+## ⚠️ দাবিত্যাগ ও সতর্কতা
+
+> [!CAUTION]
+> **এই টুলটি শুধুমাত্র শিক্ষাগত উদ্দেশ্যে এবং নিজস্ব সিস্টেমের পারফরম্যান্স টেস্টিংয়ের জন্য তৈরি।**
+>
+> ❌ কোনো ব্যক্তি বা প্রতিষ্ঠানের অননুমোদিত SMS প্রেরণ আইনত দণ্ডনীয় অপরাধ।
+> ✅ টুলটির কোনো দূর্ভাবনাপূর্ণ ব্যবহারের সম্পূর্ণ দায়িত্ব **অপারেটরের**।
+> 🔒 শুধুমাত্র নিজের নম্বর টেস্টিং করুন।
 
 ---
 
-## ⚙️ Installation & Setup (Termux)
+## 🚀 ফিচারসমূহ
 
-Open your Termux application and copy-paste the following single commands to install the required environment packages:
+| ভার্সন | ফাইল | বৈশিষ্ট্য |
+|--------|------|-----------|
+| **v1** | `sbv1.py` | বেসিক স্টেবল ইঞ্জিন |
+| **v2** | `sbv2.py` | আপডেটেড ইঞ্জিন + উন্নত পারফরম্যান্স |
+
+---
+
+## 📦 ইনস্টলেশন ও রান করার নির্দেশনা
+
+### 📱 Termux (Android)
 
 ```bash
-# Remove old directory if exists
+# পুরনো ফোল্ডার ডিলিট করুন (যদি থাকে)
 rm -rf SMS-BOMBER-BD
 
-# Clone the standalone engine registry
+# রিপোজিটরি ক্লোন করুন
 git clone https://github.com/bshuvom1-glitch/SMS-BOMBER-BD.git
 
-# Navigate into the project folder
+# ফোল্ডারে প্রবেশ করুন
 cd SMS-BOMBER-BD
 
-# Check directory structure files
+# ফাইল লিস্ট চেক করুন
 ls
 
-# Run the primary launcher script
+# ভার্সন ১ চালানোর জন্য
 python sbv1.py
 
-```bash
-#if version 2 run launcher script
+# ভার্সন ২ চালানোর জন্য
 python sbv2.py
+
+Linux🐧/Ubuntu
+
+```bash
+
+# প্রয়োজনীয ় প্যাকেজ ইনস্টল করুন
+
+sudo apt update
+
+sudo apt install git python3 python3-pip -y
+
+# পুরন ো ফোল্ডার ডিলিট করুন (যদি থাকে)
+
+rm -rf SMS-BOMBER-BD
+
+# রিপোজিটর ি ক্লোন করুন
+
+git clone https://github.com/bshuvom1-glitch/S
+
+# ফোল্ডার ে প্রবেশ করুন
+
+cd SMS-BOMBER-BD
+
+# ফাইল লিস ্ ট চেক করুন
+
+1s
+
+# ভার্সন ১ চালানোর জন্য
+
+python3 sbv1.py
+
+ভার্সন ২ চালানোর
+
+python3 sbv2.py
