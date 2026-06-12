@@ -52,37 +52,3 @@ python sbv1.py
 
 # ভার্সন ২ চালানোর জন্য
 python sbv2.py
-
-Linux🐧/Ubuntu
-
-```bash
-
-# প্রয়োজনীয ় প্যাকেজ ইনস্টল করুন
-
-sudo apt update
-
-sudo apt install git python3 python3-pip -y
-
-# পুরন ো ফোল্ডার ডিলিট করুন (যদি থাকে)
-
-rm -rf SMS-BOMBER-BD
-
-# রিপোজিটর ি ক্লোন করুন
-
-git clone https://github.com/bshuvom1-glitch/S
-
-# ফোল্ডার ে প্রবেশ করুন
-
-cd SMS-BOMBER-BD
-
-# ফাইল লিস ্ ট চেক করুন
-
-1s
-
-# ভার্সন ১ চালানোর জন্য
-
-python3 sbv1.py
-
-ভার্সন ২ চালানোর
-
-python3 sbv2.py
