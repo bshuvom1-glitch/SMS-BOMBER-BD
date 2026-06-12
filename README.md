@@ -31,3 +31,7 @@ ls
 
 # Run the primary launcher script
 python sbv1.py
+
+```bash
+#if version 2 run launcher script
+python sbv2.py
