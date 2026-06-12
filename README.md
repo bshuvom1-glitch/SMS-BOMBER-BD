@@ -47,8 +47,5 @@ cd SMS-BOMBER-BD
 # ফাইল লিস্ট চেক করুন
 ls
 
-# ভার্সন ১ চালানোর জন্য
-python sbv1.py
-
 # ভার্সন ২ চালানোর জন্য
 python sbv2.py
