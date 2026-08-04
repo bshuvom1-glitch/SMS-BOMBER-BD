@@ -1,51 +1,112 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-Termux%20%7C%20Linux-green?style=for-the-badge" alt="Platform">
+  <img src="https://img.shields.io/badge/Platform-Termux%20%7C%20Linux-brightgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Version-v1%20%7C%20v2%20%7C%20v3-orange?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/bshuvom1-glitch/SMS-BOMBER-BD?style=for-the-badge">
 </p>
 
 <h1 align="center">📱 SMS-BOMBER-BD</h1>
 
 <p align="center">
-  <strong>একটি শিক্ষামূলক পারফরম্যান্স টেস্টিং টুল</strong>
+  <b>Educational Performance Testing Toolkit</b><br>
+  <i>Designed for testing and learning purposes only.</i>
 </p>
 
 ---
 
-## ⚠️ দাবিত্যাগ ও সতর্কতা
+# ⚠️ Disclaimer
 
 > [!CAUTION]
-> **এই টুলটি শুধুমাত্র শিক্ষাগত উদ্দেশ্যে এবং নিজস্ব সিস্টেমের পারফরম্যান্স টেস্টিংয়ের জন্য তৈরি।**
 >
-> ❌ কোনো ব্যক্তি বা প্রতিষ্ঠানের অননুমোদিত SMS প্রেরণ আইনত দণ্ডনীয় অপরাধ।
-> ✅ টুলটির কোনো দূর্ভাবনাপূর্ণ ব্যবহারের সম্পূর্ণ দায়িত্ব **অপারেটরের**।
-> 🔒 শুধুমাত্র নিজের নম্বর টেস্টিং করুন।
+> This project is created **only for educational and authorized testing purposes.**
+>
+> - ✅ Test only on systems or phone numbers you own or are authorized to test.
+> - ❌ Unauthorized use against third parties may violate laws and service terms.
+> - 🔒 The author is **not responsible** for misuse.
 
 ---
 
-## 🚀 ফিচারসমূহ
+# ✨ Features
 
-| ভার্সন | ফাইল | বৈশিষ্ট্য |
-|--------|------|-----------|
-| **v1** | `sbv1.py` | বেসিক স্টেবল ইঞ্জিন |
-| **v2** | `sbv2.py` | আপডেটেড ইঞ্জিন + উন্নত পারফরম্যান্স |
+- ⚡ Fast Python Engine
+- 📱 Termux & Linux Supported
+- 🔄 Multiple Versions
+- 🛠 Easy Installation
+- 🚀 Lightweight
+- 📂 Open Source
 
 ---
 
-## 📦 ইনস্টলেশন ও রান করার নির্দেশনা
+# 📂 Available Versions
 
-### 📱 Termux (Android)
+| Version | File | Status | Description |
+|---------|------|--------|-------------|
+| 🟢 v1 | `sbv1.py` | Stable | Basic Engine |
+| 🔵 v2 | `sbv2.py` | Stable | Improved Performance |
+| 🟣 v3 | `sbv3.py` | Coming Soon | Next Generation Engine |
+
+---
+
+# 📦 Installation
 
 ```bash
-# পুরনো ফোল্ডার ডিলিট করুন (যদি থাকে)
 rm -rf SMS-BOMBER-BD
 
-# রিপোজিটরি ক্লোন করুন
+pkg update -y && pkg upgrade -y
+
+pkg install python git -y
+
+rm -rf SMS-BOMBER-BD
+
 git clone https://github.com/bshuvom1-glitch/SMS-BOMBER-BD.git
 
-# ফোল্ডারে প্রবেশ করুন
+cd SMS-BOMBER-BD
+```
+
+---
+
+# ▶ Run
+
+### Version 1
+
+```bash
+python sbv1.py
+```
+
+### Version 2
+
+```bash
+python sbv2.py
+```
+
+### Version 3 (new)
+
+```bash
+python sbv3.py
+```
+
+---
+
+# 🔄 Update
+
+```bash
 cd SMS-BOMBER-BD
 
-# ফাইল লিস্ট চেক করুন
-ls
+git pull
+```
 
-# ভার্সন ২ চালানোর জন্য
-python sbv2.py
+---
+
+# 📜 License
+
+This repository is intended for **educational and authorized testing only.**
+
+---
+
+<p align="center">
+⭐ If you find this repository useful, consider giving it a Star.
+</p>
+
+<p align="center">
+Made with ❤️ by <b>Shuvom sensor</b>
+</p>
