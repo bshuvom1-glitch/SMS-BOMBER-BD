@@ -42,7 +42,7 @@
 | Version | File | Status | Description |
 |---------|------|--------|-------------|
 | 🟢 v1 | `sbv1.py` | Stable | Basic Engine |
-| 🔵 v2 | `sbv2.py` | Stable | Improved Performance obscatinon problem solved this file was delayed|
+| 🔵 v2 | `sbv2.py` | Ustable | not Improved Performance obscatinon problem solved this file was delayed|
 | 🟣 v3 | `sbv3.py` | Stable | Next Generation Engine |
 
 ---
