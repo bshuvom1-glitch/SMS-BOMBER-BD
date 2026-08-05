@@ -73,12 +73,6 @@ cd SMS-BOMBER-BD
 python sbv1.py
 ```
 
-### Version 2
-
-```bash
-python sbv2.py
-```
-
 ### Version 3 (new)
 
 ```bash
