@@ -34,7 +34,7 @@
 - 🛠 Easy Installation
 - 🚀 Lightweight
 - 📂 Open Source
-- 🔑 Password - {https://t.me/minhaz_official26}
+- 🔑 Password - https://t.me/minhaz_official26
 ---
 
 # 📂 Available Versions
